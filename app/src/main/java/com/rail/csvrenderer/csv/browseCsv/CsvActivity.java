@@ -9,8 +9,8 @@ import android.widget.ListView;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.rail.csvrenderer.R;
-import com.rail.csvrenderer.csv.Reader;
 import com.rail.csvrenderer.csv.ItemArrayAdapter;
+import com.rail.csvrenderer.csv.Reader;
 
 import java.io.FileNotFoundException;
 import java.io.InputStream;
@@ -45,8 +45,6 @@ public class CsvActivity extends AppCompatActivity {
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
 
-//        Intent intentParent = getIntent();
-//        setResult(RESULT_OK, intentParent);
         // Check which request we're responding to
         if (requestCode == REQUESTCODE && resultCode != RESULT_CANCELED) {
             // Make sure the request was successful

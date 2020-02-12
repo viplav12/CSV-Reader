@@ -8,8 +8,8 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.rail.csvrenderer.R;
-import com.rail.csvrenderer.csv.Reader;
 import com.rail.csvrenderer.csv.ItemArrayAdapter;
+import com.rail.csvrenderer.csv.Reader;
 
 import java.io.InputStream;
 import java.util.List;
