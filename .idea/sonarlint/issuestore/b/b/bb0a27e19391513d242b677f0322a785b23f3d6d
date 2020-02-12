@@ -1,0 +1,5 @@
+
+_squid:UselessImportCheck"4Remove this unused import 'android.widget.ListView'.(Œ‰Ö×8¥³¢Ø‚.
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙþÕC8Ýóº¯‚.
+vsquid:UselessImportCheck"FRemove this unused import 'com.rail.csvrenderer.csv.ItemArrayAdapter'.(®Àµÿûÿÿÿÿ8¥³¢Ø‚.
+lsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(²Ú±Ž8Ýóº¯‚.

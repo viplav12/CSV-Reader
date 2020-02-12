@@ -1,0 +1,10 @@
+
+Zsquid:S1854."7Remove this useless assignment to local variable "row".(‡×øÄùÿÿÿÿ8»¡ÿ„ƒ.
+jsquid:UselessImportCheck":Remove this unused import 'android.widget.RelativeLayout'.(ü¯ğõşÿÿÿÿ8É‹Ú¸‚.
+Lsquid:S14814")Remove this unused "stat" local variable.(Ë€¾úÿÿÿÿ8ëµİ‚.
+_squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8Ì…õ¸‚.
+]squid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8€È‰Û‚.
+nsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(ÅãÉøşÿÿÿÿ8»¡ÿ„ƒ.
+`squid:UselessImportCheck"0Remove this unused import 'android.text.Layout'.(ÔŠ²±úÿÿÿÿ8¦ò„…ƒ.
+osquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(®Á¾)
+[squid:S18544"8Remove this useless assignment to local variable "stat".(Ë€¾úÿÿÿÿ8ëµİ‚.

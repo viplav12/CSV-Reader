@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CSV Reader</string>
+    <string name="button_text">Browse CSV File</string>
+    <string name="open_existing">Open Existing CSV File</string>
+</resources>

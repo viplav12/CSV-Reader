@@ -1,0 +1,7 @@
+
+jsquid:HiddenFieldCheck"<Rename "listView" which hides the field declared at line 18.(—Ž¤ñúÿÿÿÿ8Ñþ°‚.
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Á›×úûÿÿÿÿ8ÀÅî°‚.
+Osquid:S1068",Remove this unused "listView" private field.(¯¤½ñûÿÿÿÿ8Ñþ°‚.
+‚squid:S1450"_Remove the "itemArrayAdapter" field and declare it as a local variable in the relevant methods.(ËÝ’–ýÿÿÿÿ8Ñþ°‚.
+esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(¸ˆÌô
+?squid:S1185-"(Remove this method to simply inherit it.(ÍÙ÷¢
