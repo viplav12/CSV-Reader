@@ -30,7 +30,7 @@ public class LocalActivity extends AppCompatActivity {
         listView.setAdapter(itemArrayAdapter);
         listView.onRestoreInstanceState(state);
 
-        InputStream inputStream = getResources().openRawResource(R.raw.issues);
+        InputStream inputStream = getResources().openRawResource(R.raw.issues2);
         Reader csvFile = new Reader(inputStream);
         List<String[]> userList = csvFile.read();
 

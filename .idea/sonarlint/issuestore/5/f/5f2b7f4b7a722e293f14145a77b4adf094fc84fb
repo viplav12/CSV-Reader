@@ -1,7 +1,0 @@
-
-‚squid:S1450"_Remove the "itemArrayAdapter" field and declare it as a local variable in the relevant methods.(ËÝ’–ýÿÿÿÿ8Ö¦–¸‚.
-jsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(£‘¢èüÿÿÿÿ
-nsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(ó¶¦ëÿÿÿÿÿ8ÀÕ§Ù‚.
-?squid:S1148E"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü¼ºÌ8ö¯…¸‚.
-Hsquid:S1068"+Remove this unused "context" private field.(êÝç8¹ÕÀ·‚.
